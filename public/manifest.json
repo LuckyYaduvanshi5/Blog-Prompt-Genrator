@@ -1,0 +1,24 @@
+
+{
+  "name": "BlogPrompt Generator",
+  "short_name": "BlogPrompt",
+  "description": "AI-Powered Blog Prompt Creation Tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/lovable-uploads/f4d370f8-48de-4851-b5a7-38bfdc73e232.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lovable-uploads/f4d370f8-48de-4851-b5a7-38bfdc73e232.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

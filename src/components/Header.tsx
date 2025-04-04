@@ -9,6 +9,11 @@ const Header = () => {
     <header className="border-b border-border/50 py-4">
       <div className="container flex justify-between items-center">
         <div className="flex items-center gap-2">
+          <img 
+            src="/lovable-uploads/f4d370f8-48de-4851-b5a7-38bfdc73e232.png" 
+            alt="BlogPrompt Generator Logo" 
+            className="w-10 h-10"
+          />
           <h1 className="text-2xl font-bold">
             <span className="gradient-text">BlogPrompt</span>
             <span className="text-sm font-normal ml-1">Generator</span>
